@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sanghrash92
-- 👀 I’m interested in python and want to start on some cool projects to advance my learning.
-- 🌱 I’m currently learning django but still need more practice.
-- 💞️ I’m looking to collaborate on anything related to python.
+- 👀 I’m interested in HTML, CSS, JavaScript and want to start on some world projects to advance my learning.
+- 💞️ I’m looking to collaborate on anything related to web development.
 - 📫 Please contact me on my email which is sanghrash92@gmail.com
 
 <!---
